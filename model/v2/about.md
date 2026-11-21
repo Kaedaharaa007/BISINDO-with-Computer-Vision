@@ -1,0 +1,1 @@
+this model only contain first 13 alphabet
