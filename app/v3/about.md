@@ -1,1 +1,0 @@
-all 26 alphabets can be recognized by this model - use Multilayer Perceptron as Architecture

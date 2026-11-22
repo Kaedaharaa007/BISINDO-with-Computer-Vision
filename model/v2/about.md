@@ -1,1 +1,2 @@
-this model only contain first 13 alphabet
+this model contain 26 alphabet - more updated than v3
+NOT OVERFITTING
