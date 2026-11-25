@@ -1,0 +1,7 @@
+services:
+  handsign-backend:
+    build: .
+    container_name: bisindo-api
+    ports:
+      - "8000:8000"
+    restart: unless-stopped

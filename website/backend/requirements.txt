@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-contrib-python-headless==4.11.0.86
+mediapipe==0.10.21
+tensorflow==2.19.0
+fastapi
+uvicorn
+python-multipart
